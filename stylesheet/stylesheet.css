@@ -1,0 +1,74 @@
+.navbar{
+    background-color: black;
+}
+.display {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section {
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+}
+.col-9 {
+    font-size: 18px;
+    text-align: center;
+}
+.circle-btn {
+    width: 20px;
+    height: 20px;
+    background-color: lightblue;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+}
+
+.circle-btn.btn1 {
+    top: 25rem;
+    left: 35rem;
+}
+
+.circle-btn.btn2 {
+    top: 23rem;
+    left: 20rem;
+}
+.circle-btn.btn3 {
+    top: 30rem;
+    left: 27rem;
+}
+.circle-btn.btn4 {
+    top: 20rem;
+    left: 18rem;
+}
+.circle-btn.btn5 {
+    top: 27rem;
+    left: 22rem;
+}
+.circle-btn.btn6 {
+    top: 27rem;
+    left: 32rem;
+}
+.circle-btn.btn7 {
+    top: 22rem;
+    left: 32rem;
+}
+.circle-btn.btn8 {
+    top: 22rem;
+    left: 32rem;
+}
+.circle-btn.btn9 {
+    top: 30rem;
+    left: 35rem;
+}
+.circle-btn.btn10{
+    top: 30rem;
+    left: 35rem;
+}
+.circle-btn.btn11{
+    top: 25rem;
+    left: 43rem;
+}
+.circle-btn.btn12{
+    top: 25rem;
+    left: 12rem;
+}
